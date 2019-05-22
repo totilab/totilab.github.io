@@ -2,4 +2,4 @@
 title: "About This Website"
 ---
 
-More about this website.
+En este sitio podrás enterarte de todo acerca de nuestro laboratorio de psicología experimental de la universidad Austral de Chile
